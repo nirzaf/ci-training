@@ -125,3 +125,5 @@ nb-configuration.xml
 /phpunit*.xml
 /.phpunit.*.cache
 
+/.vs/VSWorkspaceState.json
+/.vs/ci-training/v16/.suo
