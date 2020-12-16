@@ -5,6 +5,7 @@
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible, and secure. 
+You better use Visual Studio for these projects for the best performance
 More information can be found at the [official site](http://codeigniter.com).
 
 This repository holds a composer-installable app starter.
