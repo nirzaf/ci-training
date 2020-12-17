@@ -1,4 +1,4 @@
-//Some Code Added here
+//Updated the readme file by lakshan
 
 # CodeIgniter 4 Application Starter
 
