@@ -30,7 +30,10 @@ $routes->setAutoRoute(true);
 
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
-$routes->get('/', 'Home::index');
+// $routes->get('/', 'Home::index');
+
+$routes->add('product/(:any)/(:any)','shop::product/$1/$2');
+$routes->add('blog', function(){ return '<h2> This is a blog page </h2>';});
 
 /**
  * --------------------------------------------------------------------
